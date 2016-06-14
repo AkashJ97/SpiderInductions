@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Spider Inductions</string>>
+    <string name="spider_inductions_2016">SPIDER INDUCTIONS 2016</string>
+    <string name="department">Department</string>
+    <string name="profiles">Profiles</string>
+    <string name="do_you_want_mentorship">Do you want Mentorship ?</string>
+    <string name="submit">Submit</string>
+    <string name="tronix">Tronix</string>
+    <string name="webdev">WebDev</string>
+    <string name="appdev">AppDev</string>
+    <string name="algos">Algos</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="name">Name</string>
+    <string-array name="Department">
+        <item>Computer Science and Engineering</item>
+        <item>Electrical and Electronics Engineering</item>
+        <item>Electronics and Communication Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Instrumentation and Control Engineering</item>
+        <item>Metallurgy and Materials Engineering</item>
+        <item>Production Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Architecture</item>
+    </string-array>
+</resources>
