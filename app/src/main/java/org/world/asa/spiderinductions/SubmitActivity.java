@@ -16,7 +16,7 @@ public class SubmitActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_submit);
         Intent subact=getIntent();
-        if(subact.hasExtra("Name")){
+        if(subact.hasExtra("name")){
             TextView t=(TextView)findViewById(R.id.thank);
             t.setText("Thank you "+subact.getStringExtra("Name")+" for your response");
         }

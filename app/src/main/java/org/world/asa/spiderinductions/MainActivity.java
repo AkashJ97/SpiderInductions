@@ -63,7 +63,7 @@ public class MainActivity extends Activity  {
             Intent subact = new Intent(this, SubmitActivity.class);
             EditText nam=(EditText) findViewById(R.id.name);
             String s=nam.getText().toString();
-            subact.putExtra("Name",s);
+            subact.putExtra("name",s);
             startActivity(subact);
         }
 
